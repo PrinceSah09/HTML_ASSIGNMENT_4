@@ -4,9 +4,9 @@
 
 ## 1. Desktop View
 
-<img src="./Image/Desktop.png">
+<img src="Desktop.png">
 <br/>
 
 ## 2. Mobile View
 
-<img src="./Image/Mobile.png" width="250" height="1000">
+<img src="Mobile.png" width="250" height="1000">
